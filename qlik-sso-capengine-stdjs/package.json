@@ -19,7 +19,6 @@
   "homepage": "https://github.com/websy85/qlik-sense-nodejs-basic-sso#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "bootstrap": "^3.3.7",
     "enigma.js": "^2.6.3",
     "express": "^4.16.2",
     "jquery": "^3.5.0",

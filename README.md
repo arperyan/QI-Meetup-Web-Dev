@@ -16,3 +16,4 @@ To start the presentation, follow these steps once you have node.js and npm inst
 4. Type localhost:3000 in your browser
 
 
+# qlik-sso-capengine-stdjs folder provides an example

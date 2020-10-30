@@ -1,6 +1,6 @@
 # QI-Meetup-Web-Dev
 
-To start the presentation, follow these steps:
+To start the presentation, follow these steps once you have node.js and npm installed on your computer:
 
 1. Go to presentation folder
 2. npm install
